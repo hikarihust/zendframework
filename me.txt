@@ -5,3 +5,7 @@ Zend Skeleton
         https://docs.zendframework.com/tutorials/getting-started/overview/
         composer self-update
         composer create-project -s dev zendframework/skeleton-application basic
+    Module Hello
+        composer dump-autoload
+        https://viblo.asia/p/how-to-create-a-new-module-in-zend-framework-3-part-ii-ByEZky1o5Q0
+    
