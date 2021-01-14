@@ -10,4 +10,13 @@ Zend Skeleton
         https://viblo.asia/p/how-to-create-a-new-module-in-zend-framework-3-part-ii-ByEZky1o5Q0
 Xây dựng Module Training
     Part 1
+    Part 2
+        http://localhost/zendframework/basic/public/training/index
+        Disable view:
+            Cach 1: return false;
+            Cach 2: return '';
+        Disable layout 
+            $viewModel->setTerminal(true);
+        Disable layout & disable view
+            return $this->response;
     

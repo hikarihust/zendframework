@@ -18,7 +18,8 @@
     "autoload": {
         "psr-4": {
             "Application\\": "module/Application/src/",
-            "Hello\\": "module/Hello/src/"
+            "Hello\\": "module/Hello/src/",
+            "Training\\": "module/Training/src/"
         }
     },
     "autoload-dev": {
