@@ -8,4 +8,6 @@ Zend Skeleton
     Module Hello
         composer dump-autoload
         https://viblo.asia/p/how-to-create-a-new-module-in-zend-framework-3-part-ii-ByEZky1o5Q0
+Xây dựng Module Training
+    Part 1
     
