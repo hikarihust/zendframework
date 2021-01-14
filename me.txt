@@ -1,0 +1,7 @@
+                                ZEND SKELETON APPLICATION
+                                
+Zend Skeleton
+    Download & Cài đặt
+        https://docs.zendframework.com/tutorials/getting-started/overview/
+        composer self-update
+        composer create-project -s dev zendframework/skeleton-application basic
